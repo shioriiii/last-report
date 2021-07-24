@@ -10,7 +10,7 @@ const url = [
    "https://www.asahi-kasei.co.jp/saran/assets/images/preservation/vegetables/detail/food11_tph00.jpg",
    "https://www.takashimaya.co.jp/sto/image/product/product_image_main/7770/0001637770-001.jpg",
    "https://tblg.k-img.com/restaurant/images/Rvw/35532/320x320_rect_35532120.jpg",
-   "https://cont-daidokolog.pal-system.co.jp/system/recipe/3064/img/thumbnail/sp_detail_main_PS_KCH_1431M.jpg",
+   "https://cont-daidokolog.pal-system.co.jp/system/recipe/3064/img/thumbnail/sp_detail_main_PS_KCH_1431M.jpg"
 
 
 
